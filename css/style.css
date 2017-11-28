@@ -1,0 +1,98 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption,marquee {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+
+
+
+
+body{margin-bottom: 0px;overflow-x: hidden;position: absolute;height: auto;}
+           #d1{ background-color:#014A5E;height:120px;width:100%;}
+           #d11{ color:green;margin-top:15px;margin-left:5px;width:260px;height:
+               90px;float:left;border-radius: 5px;}
+           #d1 ul {list-style-type: none;}
+           #d1 ul li {margin-top:40px;margin-left:15px;float:left;padding: 2px;font-size: 20px;display: block;width:100px;height: 30px;text-align: center;line-height: 30px;}
+           #d1 ul li a{text-decoration: none;color:white;}
+           #d1 ul li:hover{background-color: #4169E1;border-radius: 1px}
+           #d1 ul li a:hover{ color:white;font-size:20px;border-radius: 1px;}
+
+                          
+                         #d1 ul{margin;0px;padding: 0px;}
+                         #d1 ul {list-style-type: none;}
+/* Dropdown */           #d1 ul ul{margin-top:2px;border-radius: 5px;display: none;}
+                         #d1 li li{margin: 0px;padding: 0px;background-color: #014A5E;border:1px white;width:200px;color:white;z-index: 999;position: relative;margin-left: -1px;font-size: 16px;height: 35px;line-height: 35px;text-align: left;}
+                        /* #d1 li:hover ul{display: block;}*/
+           
+                         #d1 ul ul li:hover{background-color: #DCDCDC;color: black;}
+                         #d1 ul ul  a{text-decoration: none;margin-left: 10px;display: block;}
+                         #d1 ul ul  a:hover{text-decoration: none; font-size: 16px;color: black;}
+
+
+
+/* Form */          #link {width:1349;height: 500;background-color: white;} 
+           #link1 {width:400px;height:500px;border-top: 2px solid #21a1e1;}
+           form{ margin-left:20px;  }
+           form input {border: solid 2px #21a1e1;width:200px;height:30px;margin-top:5px;}
+           form button {width:70px;height:35px;border:solid 2px crimson;color: white;background-color: crimson;border-radius: 4px;margin-left:5px;}
+           form span {font-family: arial ;font-size: 13px;font-weight:normal;color:navy}
+
+            #link2 { width:945px;height: 498px;border-left: 2px solid #21a1e1}
+           #ul2{list-style: none;margin-left: 50px;margin-top: 50px;}
+           #ul2 li {float: left;width: 130px;height: 40px;background-color: darkorange;text-align: center;line-height: 40px;}
+           #ul2 li:hover{background-color: cornflowerblue;}
+           #ul2 li a{text-decoration: none;display: block;color: white}
+           
+/*Tab Menu  */      .tabcontent {
+                          display: none;
+                          margin-left: 50px;margin-top:0px;padding: 0px;
+                           width: 778px;height: 350px;}
+             
+                     div.tabcontent img{width:160px;height: 135px;float: left;margin-top: 30px;margin-left: 30px;}
+                     #ul3 {list-style-type: none;margin-left: 10px;}
+                     #ul3 li {padding: 7px;font-family: PT Sans Narrow;font-style: italic;font-weight: bold}
+                     #ul3 li a:focus, .active{ background-color: #002147;}
+                     .tabcontent li a{text-decoration: none;font-weight: 100}
+                     .tabcontent li a:hover{text-decoration: underline;color: red;}
+
+
+
+#dd2{height: 502px;width: 100%;}
+            #d2 {background:white;width:29.65%;height:500px;float:left;}
+          #d2 ul{margin-left: 28px;}
+          #d2 ul li {padding: 12px;}
+           #d2 li a{font-family:monospace}
+           #d2 ul li a:hover{ color:#FF4500;font-size:15px;}
+
+
+           #d2 p marquee { font-size:17px;margin-top:16px;height:30px;}
+           #d2 h4 {margin-left:80px;height:40px;line-height:30px;}
+           #d21 {height:100px;padding: 0px;margin-top: 0px;width: 350;overflow: hidden}
+           #d21 marquee a {text-decoration: none;text-transform: capitalize;}
+
+
+
+           #d3 {height:500px;width:945px;float:left;overflow: hidden;border:2px solid #5F9EA0; }
+ #ul1{ list-style-type: none;} 
+              #ul1 li a{color:#191970} 
+           #ul1 li {padding:10px;text-transform: capitalize;font-size: 15px;}
+           #d4 { background-color:#002147;height: 350px;width:1349;}
+           hr {color:#d7d7d7}
+           #d4 ul{margin-left:40px;margin-top:25px;}
+           #d41 ul li { font-size: 18px;padding:5px;margin-left:30px;}
+           #d41 ul li a{text-decoration: none;color:white;}
+           #d41 ul li a:hover{color:red;font-size:19px;}
+           #d42 ul li { font-size: 18px;padding:5px;margin-left:30px;}
+           #d42 ul li a{text-decoration: none;color:white;}
+           #d42 ul li a:hover{color:red;font-size:19px;}
+           #d43 ul li { font-size: 18px;padding:5px;margin-left:30px;}
+           #d43 ul li a{text-decoration: none;color:white;}
+           #d43 ul li a:hover{color:red;font-size:19px;}
+           #d44 ul li { font-size: 18px;padding:5px;margin-left:30px;}
+           #d44 ul li a{text-decoration: none;color:white;}
+           #d44 ul address { color:white;font-size:18px;margin-left:30px;}
